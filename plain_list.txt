@@ -45,7 +45,6 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
-stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -190,6 +189,7 @@ stun.palava.tv:3478
 stun.peeters.com:3478
 stun.peethultra.be:3478
 stun.piratenbrandenburg.de:3478
+stun.pjsip.org:3478
 stun.planetarium.com.br:3478
 stun.plexicomm.net:3478
 stun.poetamatusel.org:3478
@@ -274,6 +274,7 @@ stun.usfamily.net:3478
 stun.vadacom.co.nz:3478
 stun.vavadating.com:3478
 stun.verbo.be:3478
+stun.villapalagonia.it:3478
 stun.vincross.com:3478
 stun.vivox.com:3478
 stun.vo.lu:3478
@@ -316,7 +317,6 @@ stun.webmatrix.com.br:3478
 stun.wemag.com:3478
 stun.westtel.ky:3478
 stun.wia.cz:3478
-stun.wtfismyip.com:3478
 stun.wxnz.net:3478
 stun.xten.com:3478
 stun.yesdates.com:3478
