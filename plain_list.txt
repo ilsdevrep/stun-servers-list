@@ -1,7 +1,6 @@
 iphone-stun.strato-iphone.de:3478
 relay.webwormhole.io:3478
 stun.1-voip.com:3478
-stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
 stun.3deluxe.de:3478
@@ -45,6 +44,7 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
+stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -81,7 +81,6 @@ stun.fixup.net:3478
 stun.fmo.de:3478
 stun.foad.me.uk:3478
 stun.framasoft.org:3478
-stun.freecall.com:3478
 stun.freeswitch.org:3478
 stun.freevoipdeal.com:3478
 stun.frozenmountain.com:3478
@@ -194,12 +193,10 @@ stun.planetarium.com.br:3478
 stun.plexicomm.net:3478
 stun.poetamatusel.org:3478
 stun.poivy.com:3478
-stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.pure-ip.com:3478
 stun.qcol.net:3478
 stun.qq.com:3478
-stun.radiojar.com:3478
 stun.ringostat.com:3478
 stun.rockenstein.de:3478
 stun.rolmail.net:3478
@@ -219,7 +216,6 @@ stun.sigmavoip.com:3478
 stun.signalwire.com:3478
 stun.simlar.org:3478
 stun.sip.us:3478
-stun.sipdiscount.com:3478
 stun.sipglobalphone.com:3478
 stun.siplogin.de:3478
 stun.sipthor.net:3478
@@ -230,7 +226,6 @@ stun.sky.od.ua:3478
 stun.skydrone.aero:3478
 stun.sma.de:3478
 stun.smartvoip.com:3478
-stun.smsdiscount.com:3478
 stun.smslisto.com:3478
 stun.solcon.nl:3478
 stun.solnet.ch:3478
@@ -274,7 +269,6 @@ stun.usfamily.net:3478
 stun.vadacom.co.nz:3478
 stun.vavadating.com:3478
 stun.verbo.be:3478
-stun.villapalagonia.it:3478
 stun.vincross.com:3478
 stun.vivox.com:3478
 stun.vo.lu:3478
@@ -285,17 +279,13 @@ stun.voip.blackberry.com:3478
 stun.voip.eutelia.it:3478
 stun.voipblast.com:3478
 stun.voipbuster.com:3478
-stun.voipbusterpro.com:3478
 stun.voipcheap.co.uk:3478
-stun.voipcheap.com:3478
 stun.voipconnect.com:3478
-stun.voipdiscount.com:3478
 stun.voipfibre.com:3478
 stun.voipgain.com:3478
 stun.voipgate.com:3478
 stun.voipgrid.nl:3478
 stun.voipia.net:3478
-stun.voipinfocenter.com:3478
 stun.voipplanet.nl:3478
 stun.voippro.com:3478
 stun.voipraider.com:3478
@@ -317,6 +307,7 @@ stun.webmatrix.com.br:3478
 stun.wemag.com:3478
 stun.westtel.ky:3478
 stun.wia.cz:3478
+stun.wtfismyip.com:3478
 stun.wxnz.net:3478
 stun.xten.com:3478
 stun.yesdates.com:3478
