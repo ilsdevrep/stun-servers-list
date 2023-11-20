@@ -58,7 +58,6 @@ stun.dunyatelekom.com:3478
 stun.dus.net:3478
 stun.easter-eggs.com:3478
 stun.easybell.de:3478
-stun.easyvoip.com:3478
 stun.edwin-wiegele.at:3478
 stun.einfachcallback.de:3478
 stun.ekiga.net:3478
@@ -81,7 +80,6 @@ stun.foad.me.uk:3478
 stun.framasoft.org:3478
 stun.freecall.com:3478
 stun.freeswitch.org:3478
-stun.freevoipdeal.com:3478
 stun.frozenmountain.com:3478
 stun.futurasp.es:3478
 stun.galeriemagnet.at:3478
@@ -97,7 +95,6 @@ stun.grazertrinkwasseringefahr.at:3478
 stun.groenewold-newmedia.de:3478
 stun.h4v.eu:3478
 stun.halonet.pl:3478
-stun.healthtap.com:3478
 stun.heeds.eu:3478
 stun.hicare.net:3478
 stun.hide.me:3478
@@ -107,7 +104,6 @@ stun.hot-chilli.net:3478
 stun.imafex.sk:3478
 stun.imp.ch:3478
 stun.infra.net:3478
-stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.com:3478
 stun.ippi.fr:3478
@@ -123,7 +119,6 @@ stun.jay.net:3478
 stun.jowisoftware.de:3478
 stun.jumblo.com:3478
 stun.junet.se:3478
-stun.justvoip.com:3478
 stun.kanojo.de:3478
 stun.kaseya.com:3478
 stun.kedr.io:3478
@@ -141,7 +136,6 @@ stun.levigo.de:3478
 stun.lineaencasa.com:3478
 stun.linphone.org:3478
 stun.linuxtrent.it:3478
-stun.liveo.fr:3478
 stun.lleida.net:3478
 stun.localphone.com:3478
 stun.logic.ky:3478
@@ -162,7 +156,6 @@ stun.muoversi.net:3478
 stun.myhowto.org:3478
 stun.myspeciality.com:3478
 stun.myvoipapp.com:3478
-stun.myvoiptraffic.com:3478
 stun.mywatson.it:3478
 stun.nanocosmos.de:3478
 stun.neomedia.it:3478
@@ -187,7 +180,6 @@ stun.palava.tv:3478
 stun.peeters.com:3478
 stun.peethultra.be:3478
 stun.piratenbrandenburg.de:3478
-stun.pjsip.org:3478
 stun.planetarium.com.br:3478
 stun.plexicomm.net:3478
 stun.poetamatusel.org:3478
@@ -229,7 +221,6 @@ stun.skydrone.aero:3478
 stun.sma.de:3478
 stun.smartvoip.com:3478
 stun.smsdiscount.com:3478
-stun.smslisto.com:3478
 stun.solcon.nl:3478
 stun.solnet.ch:3478
 stun.solomo.de:3478
@@ -276,17 +267,14 @@ stun.vivox.com:3478
 stun.vo.lu:3478
 stun.voicetech.se:3478
 stun.voicetrading.com:3478
+stun.voip.aebc.com:3478
 stun.voip.blackberry.com:3478
 stun.voip.eutelia.it:3478
-stun.voipblast.com:3478
-stun.voipbuster.com:3478
 stun.voipbusterpro.com:3478
-stun.voipcheap.co.uk:3478
 stun.voipcheap.com:3478
 stun.voipconnect.com:3478
 stun.voipdiscount.com:3478
 stun.voipfibre.com:3478
-stun.voipgain.com:3478
 stun.voipgate.com:3478
 stun.voipgrid.nl:3478
 stun.voipia.net:3478
@@ -295,7 +283,6 @@ stun.voipplanet.nl:3478
 stun.voippro.com:3478
 stun.voipraider.com:3478
 stun.voipstreet.com:3478
-stun.voipstunt.com:3478
 stun.voipvoice.it:3478
 stun.voipwise.com:3478
 stun.voipxs.nl:3478
