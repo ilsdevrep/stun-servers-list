@@ -271,7 +271,6 @@ stun.usfamily.net:3478
 stun.vadacom.co.nz:3478
 stun.var6.cn:3478
 stun.vavadating.com:3478
-stun.verbo.be:3478
 stun.vivox.com:3478
 stun.vo.lu:3478
 stun.voicetech.se:3478
@@ -288,7 +287,6 @@ stun.voipconnect.com:3478
 stun.voipdiscount.com:3478
 stun.voipfibre.com:3478
 stun.voipgain.com:3478
-stun.voipgate.com:3478
 stun.voipgrid.nl:3478
 stun.voipia.net:3478
 stun.voipinfocenter.com:3478
