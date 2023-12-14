@@ -1,6 +1,7 @@
 iphone-stun.strato-iphone.de:3478
 relay.webwormhole.io:3478
 stun.1-voip.com:3478
+stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
 stun.3deluxe.de:3478
@@ -12,7 +13,6 @@ stun.acquageraci.it:3478
 stun.acrobits.cz:3478
 stun.acronis.com:3478
 stun.actionvoip.com:3478
-stun.alberon.cz:3478
 stun.allflac.com:3478
 stun.alphacron.de:3478
 stun.anlx.net:3478
@@ -22,7 +22,6 @@ stun.arkh-edu.ru:3478
 stun.atagverwarming.nl:3478
 stun.autosystem.com:3478
 stun.avigora.fr:3478
-stun.avoxi.com:3478
 stun.axeos.nl:3478
 stun.axialys.net:3478
 stun.babelforce.com:3478
@@ -43,6 +42,7 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
+stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -103,6 +103,7 @@ stun.hitv.com:3478
 stun.hoiio.com:3478
 stun.hot-chilli.net:3478
 stun.imafex.sk:3478
+stun.imp.ch:3478
 stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
@@ -234,9 +235,11 @@ stun.splicecom.com:3478
 stun.srce.hr:3478
 stun.stadtwerke-eutin.de:3478
 stun.stochastix.de:3478
+stun.streamnow.ch:3478
 stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
+stun.sylaps.com:3478
 stun.syncthing.net:3478
 stun.synergiejobs.be:3478
 stun.syrex.co.za:3478
