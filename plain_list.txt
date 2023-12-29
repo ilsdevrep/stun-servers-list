@@ -35,7 +35,6 @@ stun.bernardoprovenzano.net:3478
 stun.bethesda.net:3478
 stun.bitburger.de:3478
 stun.bluesip.net:3478
-stun.bridesbay.com:3478
 stun.cablenet-as.net:3478
 stun.callromania.ro:3478
 stun.carlovizzini.it:3478
@@ -44,7 +43,6 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
-stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -92,7 +90,6 @@ stun.gigaset.net:3478
 stun.gmx.de:3478
 stun.gmx.net:3478
 stun.gntel.nl:3478
-stun.godatenow.com:3478
 stun.graftlab.com:3478
 stun.grazertrinkwasseringefahr.at:3478
 stun.groenewold-newmedia.de:3478
@@ -105,7 +102,6 @@ stun.hoiio.com:3478
 stun.hot-chilli.net:3478
 stun.imafex.sk:3478
 stun.imp.ch:3478
-stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.com:3478
@@ -129,7 +125,6 @@ stun.komsa.de:3478
 stun.kotter.net:3478
 stun.l.google.com:19302
 stun.l.google.com:19305
-stun.labs.net:3478
 stun.ladridiricette.it:3478
 stun.landvast.nl:3478
 stun.lebendigefluesse.at:3478
@@ -148,9 +143,7 @@ stun.m-online.net:3478
 stun.madavi.de:3478
 stun.marcelproust.it:3478
 stun.medvc.eu:3478
-stun.meetwife.com:3478
 stun.megatel.si:3478
-stun.meowsbox.com:3478
 stun.miwifi.com:3478
 stun.mixvoip.com:3478
 stun.mobile-italia.com:3478
@@ -191,7 +184,7 @@ stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.pure-ip.com:3478
 stun.qcol.net:3478
-stun.radiojar.com:3478
+stun.qq.com:3478
 stun.ringostat.com:3478
 stun.rockenstein.de:3478
 stun.rolmail.net:3478
@@ -237,7 +230,6 @@ stun.streamnow.ch:3478
 stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
-stun.sylaps.com:3478
 stun.syncthing.net:3478
 stun.synergiejobs.be:3478
 stun.syrex.co.za:3478
