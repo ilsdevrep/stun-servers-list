@@ -43,6 +43,7 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
+stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -79,6 +80,7 @@ stun.fmo.de:3478
 stun.foad.me.uk:3478
 stun.framasoft.org:3478
 stun.freecall.com:3478
+stun.freeswitch.org:3478
 stun.freevoipdeal.com:3478
 stun.frozenmountain.com:3478
 stun.futurasp.es:3478
@@ -98,6 +100,7 @@ stun.healthtap.com:3478
 stun.heeds.eu:3478
 stun.hicare.net:3478
 stun.hide.me:3478
+stun.hitv.com:3478
 stun.hoiio.com:3478
 stun.hot-chilli.net:3478
 stun.imafex.sk:3478
@@ -319,6 +322,5 @@ stun2.l.google.com:19302
 stun2.l.google.com:19305
 stun3.l.google.com:19302
 stun3.l.google.com:19305
-stun4.3cx.com:3478
 stun4.l.google.com:19302
 stun4.l.google.com:19305
