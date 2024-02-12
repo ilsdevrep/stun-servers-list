@@ -45,7 +45,6 @@ stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
 stun.commpeak.com:3478
 stun.comrex.com:3478
-stun.cope.es:3478
 stun.counterpath.com:3478
 stun.counterpath.net:3478
 stun.crimeastar.net:3478
@@ -210,7 +209,6 @@ stun.sewan.fr:3478
 stun.shadrinsk.net:3478
 stun.siedle.com:3478
 stun.sigmavoip.com:3478
-stun.signalwire.com:3478
 stun.simlar.org:3478
 stun.sip.us:3478
 stun.sipdiscount.com:3478
