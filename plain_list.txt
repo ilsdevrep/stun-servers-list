@@ -214,7 +214,6 @@ stun.sip.us:3478
 stun.sipdiscount.com:3478
 stun.sipglobalphone.com:3478
 stun.siplogin.de:3478
-stun.sipnet.com:3478
 stun.sipthor.net:3478
 stun.siptraffic.com:3478
 stun.siptrunk.com:3478
@@ -239,6 +238,7 @@ stun.streamnow.ch:3478
 stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
+stun.syncthing.net:3478
 stun.synergiejobs.be:3478
 stun.syrex.co.za:3478
 stun.t-online.de:3478
@@ -317,5 +317,7 @@ stun1.l.google.com:19302
 stun1.l.google.com:19305
 stun2.l.google.com:19302
 stun2.l.google.com:19305
+stun3.l.google.com:19302
+stun3.l.google.com:19305
 stun4.l.google.com:19302
 stun4.l.google.com:19305
