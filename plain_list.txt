@@ -98,9 +98,9 @@ stun.hicare.net:3478
 stun.hide.me:3478
 stun.hitv.com:3478
 stun.hoiio.com:3478
-stun.hot-chilli.net:3478
 stun.imafex.sk:3478
 stun.imp.ch:3478
+stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.com:3478
@@ -179,7 +179,6 @@ stun.palava.tv:3478
 stun.peeters.com:3478
 stun.peethultra.be:3478
 stun.piratenbrandenburg.de:3478
-stun.pjsip.org:3478
 stun.planetarium.com.br:3478
 stun.plexicomm.net:3478
 stun.poetamatusel.org:3478
@@ -189,7 +188,6 @@ stun.ppdi.com:3478
 stun.pure-ip.com:3478
 stun.qcol.net:3478
 stun.qq.com:3478
-stun.radiojar.com:3478
 stun.ringostat.com:3478
 stun.rockenstein.de:3478
 stun.rolmail.net:3478
@@ -207,9 +205,7 @@ stun.shadrinsk.net:3478
 stun.siedle.com:3478
 stun.sigmavoip.com:3478
 stun.signalwire.com:3478
-stun.simlar.org:3478
 stun.sip.us:3478
-stun.sipdiscount.com:3478
 stun.sipglobalphone.com:3478
 stun.siplogin.de:3478
 stun.sipthor.net:3478
@@ -236,7 +232,6 @@ stun.streamnow.ch:3478
 stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
-stun.sylaps.com:3478
 stun.syncthing.net:3478
 stun.synergiejobs.be:3478
 stun.syrex.co.za:3478
