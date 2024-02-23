@@ -1,5 +1,6 @@
 relay.webwormhole.io:3478
 stun.1-voip.com:3478
+stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
 stun.3deluxe.de:3478
@@ -17,6 +18,7 @@ stun.alphacron.de:3478
 stun.annatel.net:3478
 stun.antisip.com:3478
 stun.arkh-edu.ru:3478
+stun.atagverwarming.nl:3478
 stun.autosystem.com:3478
 stun.avigora.fr:3478
 stun.avoxi.com:3478
@@ -28,6 +30,7 @@ stun.bandyer.com:3478
 stun.bcs2005.net:3478
 stun.bearstech.com:3478
 stun.bergophor.de:3478
+stun.bernardoprovenzano.net:3478
 stun.bethesda.net:3478
 stun.bitburger.de:3478
 stun.bluesip.net:3478
@@ -38,8 +41,8 @@ stun.carlovizzini.it:3478
 stun.cellmail.com:3478
 stun.chatous.com:3478
 stun.cheapvoip.com:3478
-stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
+stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -91,7 +94,6 @@ stun.goldfish.ie:3478
 stun.graftlab.com:3478
 stun.grazertrinkwasseringefahr.at:3478
 stun.halonet.pl:3478
-stun.healthtap.com:3478
 stun.heeds.eu:3478
 stun.hicare.net:3478
 stun.hide.me:3478
@@ -100,6 +102,7 @@ stun.hoiio.com:3478
 stun.hot-chilli.net:3478
 stun.imafex.sk:3478
 stun.imp.ch:3478
+stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.com:3478
@@ -177,6 +180,7 @@ stun.palava.tv:3478
 stun.peethultra.be:3478
 stun.piratenbrandenburg.de:3478
 stun.pjsip.org:3478
+stun.planetarium.com.br:3478
 stun.plexicomm.net:3478
 stun.poetamatusel.org:3478
 stun.poivy.com:3478
@@ -194,7 +198,6 @@ stun.romancecompass.com:3478
 stun.root-1.de:3478
 stun.ru-brides.com:3478
 stun.rynga.com:3478
-stun.sacko.com.au:3478
 stun.schlund.de:3478
 stun.schulinformatik.at:3478
 stun.selasky.org:3478
@@ -281,6 +284,7 @@ stun.voipgrid.nl:3478
 stun.voipia.net:3478
 stun.voipinfocenter.com:3478
 stun.voipplanet.nl:3478
+stun.voippro.com:3478
 stun.voipraider.com:3478
 stun.voipstreet.com:3478
 stun.voipstunt.com:3478
