@@ -1,6 +1,5 @@
 relay.webwormhole.io:3478
 stun.1-voip.com:3478
-stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
 stun.3deluxe.de:3478
@@ -99,10 +98,12 @@ stun.halonet.pl:3478
 stun.heeds.eu:3478
 stun.hicare.net:3478
 stun.hide.me:3478
+stun.hitv.com:3478
 stun.hoiio.com:3478
 stun.hot-chilli.net:3478
 stun.imafex.sk:3478
 stun.imp.ch:3478
+stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.com:3478
@@ -142,7 +143,6 @@ stun.logic.ky:3478
 stun.lovense.com:3478
 stun.lowratevoip.com:3478
 stun.m-online.net:3478
-stun.madavi.de:3478
 stun.marcelproust.it:3478
 stun.medvc.eu:3478
 stun.meetwife.com:3478
@@ -196,6 +196,7 @@ stun.rolmail.net:3478
 stun.romaaeterna.nl:3478
 stun.romancecompass.com:3478
 stun.root-1.de:3478
+stun.ru-brides.com:3478
 stun.rynga.com:3478
 stun.sacko.com.au:3478
 stun.schlund.de:3478
@@ -213,6 +214,7 @@ stun.sipglobalphone.com:3478
 stun.siplogin.de:3478
 stun.sipthor.net:3478
 stun.siptraffic.com:3478
+stun.siptrunk.com:3478
 stun.sipy.cz:3478
 stun.skydrone.aero:3478
 stun.sma.de:3478
