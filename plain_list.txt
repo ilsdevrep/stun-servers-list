@@ -1,6 +1,5 @@
 relay.webwormhole.io:3478
 stun.1-voip.com:3478
-stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
 stun.3deluxe.de:3478
@@ -131,6 +130,7 @@ stun.ladridiricette.it:3478
 stun.landvast.nl:3478
 stun.lebendigefluesse.at:3478
 stun.leonde.org:3478
+stun.leucotron.com.br:3478
 stun.levigo.de:3478
 stun.lineaencasa.com:3478
 stun.linphone.org:3478
@@ -189,6 +189,7 @@ stun.ppdi.com:3478
 stun.pure-ip.com:3478
 stun.qcol.net:3478
 stun.qq.com:3478
+stun.radiojar.com:3478
 stun.ringostat.com:3478
 stun.rockenstein.de:3478
 stun.rolmail.net:3478
@@ -235,7 +236,6 @@ stun.streamnow.ch:3478
 stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
-stun.sylaps.com:3478
 stun.syncthing.net:3478
 stun.synergiejobs.be:3478
 stun.syrex.co.za:3478
@@ -282,7 +282,6 @@ stun.voipfibre.com:3478
 stun.voipgain.com:3478
 stun.voipgate.com:3478
 stun.voipgrid.nl:3478
-stun.voipia.net:3478
 stun.voipinfocenter.com:3478
 stun.voipplanet.nl:3478
 stun.voippro.com:3478
