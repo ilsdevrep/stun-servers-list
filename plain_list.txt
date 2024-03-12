@@ -1,5 +1,6 @@
 relay.webwormhole.io:3478
 stun.1-voip.com:3478
+stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
 stun.3deluxe.de:3478
@@ -179,7 +180,6 @@ stun.palava.tv:3478
 stun.peeters.com:3478
 stun.peethultra.be:3478
 stun.piratenbrandenburg.de:3478
-stun.pjsip.org:3478
 stun.planetarium.com.br:3478
 stun.plexicomm.net:3478
 stun.poetamatusel.org:3478
@@ -282,6 +282,7 @@ stun.voipfibre.com:3478
 stun.voipgain.com:3478
 stun.voipgate.com:3478
 stun.voipgrid.nl:3478
+stun.voipia.net:3478
 stun.voipinfocenter.com:3478
 stun.voipplanet.nl:3478
 stun.voippro.com:3478
