@@ -43,6 +43,7 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
+stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -103,7 +104,6 @@ stun.hoiio.com:3478
 stun.hot-chilli.net:3478
 stun.imafex.sk:3478
 stun.imp.ch:3478
-stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.com:3478
@@ -236,6 +236,7 @@ stun.streamnow.ch:3478
 stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
+stun.sylaps.com:3478
 stun.syncthing.net:3478
 stun.synergiejobs.be:3478
 stun.syrex.co.za:3478
@@ -304,7 +305,6 @@ stun.webmatrix.com.br:3478
 stun.wemag.com:3478
 stun.westtel.ky:3478
 stun.wia.cz:3478
-stun.wtfismyip.com:3478
 stun.wxnz.net:3478
 stun.xten.com:3478
 stun.yesdates.com:3478
