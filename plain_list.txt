@@ -1,6 +1,5 @@
 relay.webwormhole.io:3478
 stun.1-voip.com:3478
-stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
 stun.3deluxe.de:3478
@@ -43,6 +42,7 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
+stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -133,6 +133,7 @@ stun.lebendigefluesse.at:3478
 stun.leonde.org:3478
 stun.leucotron.com.br:3478
 stun.levigo.de:3478
+stun.lineaencasa.com:3478
 stun.linphone.org:3478
 stun.linuxtrent.it:3478
 stun.liveo.fr:3478
@@ -236,7 +237,6 @@ stun.streamnow.ch:3478
 stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
-stun.sylaps.com:3478
 stun.syncthing.net:3478
 stun.synergiejobs.be:3478
 stun.syrex.co.za:3478
@@ -267,10 +267,8 @@ stun.vavadating.com:3478
 stun.verbo.be:3478
 stun.vivox.com:3478
 stun.vo.lu:3478
-stun.vodafone.ro:3478
 stun.voicetech.se:3478
 stun.voicetrading.com:3478
-stun.voip.aebc.com:3478
 stun.voip.blackberry.com:3478
 stun.voip.eutelia.it:3478
 stun.voipblast.com:3478
@@ -278,7 +276,6 @@ stun.voipbuster.com:3478
 stun.voipbusterpro.com:3478
 stun.voipcheap.co.uk:3478
 stun.voipcheap.com:3478
-stun.voipconnect.com:3478
 stun.voipdiscount.com:3478
 stun.voipfibre.com:3478
 stun.voipgain.com:3478
@@ -306,6 +303,7 @@ stun.webmatrix.com.br:3478
 stun.wemag.com:3478
 stun.westtel.ky:3478
 stun.wia.cz:3478
+stun.wtfismyip.com:3478
 stun.wxnz.net:3478
 stun.xten.com:3478
 stun.yesdates.com:3478
