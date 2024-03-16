@@ -103,7 +103,6 @@ stun.hoiio.com:3478
 stun.hot-chilli.net:3478
 stun.imafex.sk:3478
 stun.imp.ch:3478
-stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.com:3478
@@ -148,7 +147,6 @@ stun.medvc.eu:3478
 stun.meetwife.com:3478
 stun.megatel.si:3478
 stun.meowsbox.com:3478
-stun.miwifi.com:3478
 stun.mixvoip.com:3478
 stun.mobile-italia.com:3478
 stun.moonlight-stream.org:3478
@@ -189,7 +187,6 @@ stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.pure-ip.com:3478
 stun.qcol.net:3478
-stun.qq.com:3478
 stun.radiojar.com:3478
 stun.ringostat.com:3478
 stun.rockenstein.de:3478
@@ -237,6 +234,7 @@ stun.streamnow.ch:3478
 stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
+stun.sylaps.com:3478
 stun.syncthing.net:3478
 stun.synergiejobs.be:3478
 stun.syrex.co.za:3478
@@ -269,6 +267,7 @@ stun.vivox.com:3478
 stun.vo.lu:3478
 stun.voicetech.se:3478
 stun.voicetrading.com:3478
+stun.voip.aebc.com:3478
 stun.voip.blackberry.com:3478
 stun.voip.eutelia.it:3478
 stun.voipblast.com:3478
@@ -276,6 +275,7 @@ stun.voipbuster.com:3478
 stun.voipbusterpro.com:3478
 stun.voipcheap.co.uk:3478
 stun.voipcheap.com:3478
+stun.voipconnect.com:3478
 stun.voipdiscount.com:3478
 stun.voipfibre.com:3478
 stun.voipgain.com:3478
@@ -283,7 +283,6 @@ stun.voipgate.com:3478
 stun.voipgrid.nl:3478
 stun.voipia.net:3478
 stun.voipinfocenter.com:3478
-stun.voipplanet.nl:3478
 stun.voippro.com:3478
 stun.voipraider.com:3478
 stun.voipstreet.com:3478
