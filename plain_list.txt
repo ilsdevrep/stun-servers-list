@@ -1,5 +1,6 @@
 relay.webwormhole.io:3478
 stun.1-voip.com:3478
+stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
 stun.3deluxe.de:3478
@@ -29,6 +30,7 @@ stun.bandyer.com:3478
 stun.bcs2005.net:3478
 stun.bearstech.com:3478
 stun.bergophor.de:3478
+stun.bernardoprovenzano.net:3478
 stun.bethesda.net:3478
 stun.bitburger.de:3478
 stun.bluesip.net:3478
@@ -36,12 +38,10 @@ stun.bridesbay.com:3478
 stun.cablenet-as.net:3478
 stun.callromania.ro:3478
 stun.carlovizzini.it:3478
-stun.cellmail.com:3478
 stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
-stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -94,9 +94,11 @@ stun.goldfish.ie:3478
 stun.graftlab.com:3478
 stun.grazertrinkwasseringefahr.at:3478
 stun.halonet.pl:3478
+stun.healthtap.com:3478
 stun.heeds.eu:3478
 stun.hicare.net:3478
 stun.hide.me:3478
+stun.hitv.com:3478
 stun.hoiio.com:3478
 stun.hot-chilli.net:3478
 stun.imafex.sk:3478
@@ -188,6 +190,7 @@ stun.ppdi.com:3478
 stun.pure-ip.com:3478
 stun.qcol.net:3478
 stun.qq.com:3478
+stun.radiojar.com:3478
 stun.ringostat.com:3478
 stun.rockenstein.de:3478
 stun.rolmail.net:3478
@@ -233,13 +236,13 @@ stun.streamnow.ch:3478
 stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
-stun.sylaps.com:3478
 stun.syncthing.net:3478
 stun.synergiejobs.be:3478
 stun.syrex.co.za:3478
 stun.t-online.de:3478
 stun.talkho.com:3478
 stun.taxsee.com:3478
+stun.teamfon.de:3478
 stun.technosens.fr:3478
 stun.tel.lu:3478
 stun.tel2.co.uk:3478
