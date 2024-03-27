@@ -94,7 +94,6 @@ stun.goldfish.ie:3478
 stun.graftlab.com:3478
 stun.grazertrinkwasseringefahr.at:3478
 stun.halonet.pl:3478
-stun.healthtap.com:3478
 stun.heeds.eu:3478
 stun.hicare.net:3478
 stun.hide.me:3478
@@ -125,7 +124,6 @@ stun.kedr.io:3478
 stun.komsa.de:3478
 stun.kotter.net:3478
 stun.l.google.com:19302
-stun.l.google.com:19305
 stun.labs.net:3478
 stun.ladridiricette.it:3478
 stun.landvast.nl:3478
@@ -236,7 +234,6 @@ stun.streamnow.ch:3478
 stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
-stun.syncthing.net:3478
 stun.synergiejobs.be:3478
 stun.syrex.co.za:3478
 stun.t-online.de:3478
