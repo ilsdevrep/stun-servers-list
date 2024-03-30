@@ -40,8 +40,8 @@ stun.callromania.ro:3478
 stun.carlovizzini.it:3478
 stun.chatous.com:3478
 stun.cheapvoip.com:3478
-stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
+stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -64,7 +64,6 @@ stun.ekiga.net:3478
 stun.eleusi.com:3478
 stun.elitetele.com:3478
 stun.engineeredarts.co.uk:3478
-stun.eol.co.nz:3478
 stun.eoni.com:3478
 stun.epygi.com:3478
 stun.f.haeder.net:3478
@@ -157,6 +156,7 @@ stun.myvoipapp.com:3478
 stun.myvoiptraffic.com:3478
 stun.mywatson.it:3478
 stun.nanocosmos.de:3478
+stun.ncic.com:3478
 stun.neomedia.it:3478
 stun.netappel.com:3478
 stun.netgsm.com.tr:3478
@@ -234,6 +234,7 @@ stun.streamnow.ch:3478
 stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
+stun.syncthing.net:3478
 stun.synergiejobs.be:3478
 stun.syrex.co.za:3478
 stun.t-online.de:3478
