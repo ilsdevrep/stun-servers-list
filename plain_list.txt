@@ -107,6 +107,7 @@ stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.com:3478
 stun.ippi.fr:3478
+stun.irishvoip.com:3478
 stun.isp.net.au:3478
 stun.it1.hr:3478
 stun.ixc.ua:3478
@@ -121,13 +122,13 @@ stun.kanojo.de:3478
 stun.kaseya.com:3478
 stun.kedr.io:3478
 stun.komsa.de:3478
-stun.kotter.net:3478
 stun.l.google.com:19302
 stun.labs.net:3478
 stun.ladridiricette.it:3478
 stun.landvast.nl:3478
 stun.lebendigefluesse.at:3478
 stun.leonde.org:3478
+stun.leucotron.com.br:3478
 stun.levigo.de:3478
 stun.lineaencasa.com:3478
 stun.linphone.org:3478
@@ -217,6 +218,7 @@ stun.smartvoip.com:3478
 stun.smsdiscount.com:3478
 stun.smslisto.com:3478
 stun.soho66.co.uk:3478
+stun.solcon.nl:3478
 stun.solnet.ch:3478
 stun.solomo.de:3478
 stun.sonetel.com:3478
