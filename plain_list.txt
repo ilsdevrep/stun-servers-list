@@ -1,6 +1,5 @@
 relay.webwormhole.io:3478
 stun.1-voip.com:3478
-stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
 stun.3deluxe.de:3478
@@ -104,10 +103,8 @@ stun.imafex.sk:3478
 stun.imp.ch:3478
 stun.infra.net:3478
 stun.internetcalls.com:3478
-stun.intervoip.com:3478
 stun.ippi.com:3478
 stun.ippi.fr:3478
-stun.irishvoip.com:3478
 stun.isp.net.au:3478
 stun.it1.hr:3478
 stun.ixc.ua:3478
@@ -122,6 +119,7 @@ stun.kanojo.de:3478
 stun.kaseya.com:3478
 stun.kedr.io:3478
 stun.komsa.de:3478
+stun.kotter.net:3478
 stun.l.google.com:19302
 stun.labs.net:3478
 stun.ladridiricette.it:3478
@@ -283,7 +281,6 @@ stun.voipinfocenter.com:3478
 stun.voipplanet.nl:3478
 stun.voippro.com:3478
 stun.voipraider.com:3478
-stun.voipstreet.com:3478
 stun.voipstunt.com:3478
 stun.voipvoice.it:3478
 stun.voipwise.com:3478
