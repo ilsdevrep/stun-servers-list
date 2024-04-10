@@ -123,7 +123,6 @@ stun.kedr.io:3478
 stun.komsa.de:3478
 stun.kotter.net:3478
 stun.l.google.com:19302
-stun.l.google.com:19305
 stun.labs.net:3478
 stun.ladridiricette.it:3478
 stun.landvast.nl:3478
@@ -168,7 +167,6 @@ stun.nfon.net:3478
 stun.nonoh.net:3478
 stun.officinabit.com:3478
 stun.oncloud7.ch:3478
-stun.openjobs.hu:3478
 stun.openvoip.it:3478
 stun.optdyn.com:3478
 stun.ortopediacoam.it:3478
@@ -187,7 +185,6 @@ stun.ppdi.com:3478
 stun.pure-ip.com:3478
 stun.qcol.net:3478
 stun.qq.com:3478
-stun.radiojar.com:3478
 stun.ringostat.com:3478
 stun.rockenstein.de:3478
 stun.rolmail.net:3478
@@ -218,7 +215,6 @@ stun.sma.de:3478
 stun.smartvoip.com:3478
 stun.smsdiscount.com:3478
 stun.smslisto.com:3478
-stun.soho66.co.uk:3478
 stun.solcon.nl:3478
 stun.solnet.ch:3478
 stun.solomo.de:3478
@@ -295,6 +291,7 @@ stun.voys.nl:3478
 stun.vozelia.com:3478
 stun.voztele.com:3478
 stun.waterpolopalermo.it:3478
+stun.wcoil.com:3478
 stun.webcalldirect.com:3478
 stun.webmatrix.com.br:3478
 stun.wemag.com:3478
