@@ -1,6 +1,5 @@
 relay.webwormhole.io:3478
 stun.1-voip.com:3478
-stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
 stun.3deluxe.de:3478
@@ -58,7 +57,6 @@ stun.dukun.de:3478
 stun.dunyatelekom.com:3478
 stun.dus.net:3478
 stun.easter-eggs.com:3478
-stun.easybell.de:3478
 stun.easyvoip.com:3478
 stun.edwin-wiegele.at:3478
 stun.einfachcallback.de:3478
@@ -228,7 +226,6 @@ stun.srce.hr:3478
 stun.stadtwerke-eutin.de:3478
 stun.stochastix.de:3478
 stun.streamnow.ch:3478
-stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
 stun.sylaps.com:3478
