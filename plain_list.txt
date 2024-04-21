@@ -1,5 +1,6 @@
 relay.webwormhole.io:3478
 stun.1-voip.com:3478
+stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
 stun.3deluxe.de:3478
@@ -42,6 +43,7 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
+stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -93,6 +95,7 @@ stun.goldfish.ie:3478
 stun.graftlab.com:3478
 stun.grazertrinkwasseringefahr.at:3478
 stun.halonet.pl:3478
+stun.healthtap.com:3478
 stun.heeds.eu:3478
 stun.hicare.net:3478
 stun.hide.me:3478
@@ -128,7 +131,6 @@ stun.landvast.nl:3478
 stun.lebendigefluesse.at:3478
 stun.leonde.org:3478
 stun.leucotron.com.br:3478
-stun.levigo.de:3478
 stun.lineaencasa.com:3478
 stun.linphone.org:3478
 stun.linuxtrent.it:3478
@@ -156,7 +158,6 @@ stun.mywatson.it:3478
 stun.nanocosmos.de:3478
 stun.neomedia.it:3478
 stun.netappel.com:3478
-stun.netgsm.com.tr:3478
 stun.nexphone.ch:3478
 stun.next-gen.ro:3478
 stun.nextcloud.com:3478
@@ -229,6 +230,7 @@ stun.streamnow.ch:3478
 stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
+stun.sylaps.com:3478
 stun.syncthing.net:3478
 stun.synergiejobs.be:3478
 stun.syrex.co.za:3478
@@ -254,7 +256,6 @@ stun.uls.co.za:3478
 stun.url.net.au:3478
 stun.usfamily.net:3478
 stun.vadacom.co.nz:3478
-stun.var6.cn:3478
 stun.vavadating.com:3478
 stun.verbo.be:3478
 stun.vivox.com:3478
