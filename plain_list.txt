@@ -8,7 +8,6 @@ stun.3wayint.com:3478
 stun.5sn.com:3478
 stun.aa.net.uk:3478
 stun.aaisp.co.uk:3478
-stun.acquageraci.it:3478
 stun.acrobits.cz:3478
 stun.acronis.com:3478
 stun.actionvoip.com:3478
@@ -43,7 +42,6 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
-stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -156,7 +154,6 @@ stun.myvoipapp.com:3478
 stun.myvoiptraffic.com:3478
 stun.mywatson.it:3478
 stun.nanocosmos.de:3478
-stun.neomedia.it:3478
 stun.netappel.com:3478
 stun.netgsm.com.tr:3478
 stun.nexphone.ch:3478
@@ -185,9 +182,9 @@ stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.pure-ip.com:3478
 stun.qcol.net:3478
+stun.radiojar.com:3478
 stun.ringostat.com:3478
 stun.rockenstein.de:3478
-stun.rolmail.net:3478
 stun.romaaeterna.nl:3478
 stun.romancecompass.com:3478
 stun.root-1.de:3478
@@ -298,7 +295,6 @@ stun.webmatrix.com.br:3478
 stun.wemag.com:3478
 stun.westtel.ky:3478
 stun.wtfismyip.com:3478
-stun.wxnz.net:3478
 stun.xten.com:3478
 stun.yesdates.com:3478
 stun.yollacalls.com:3478
