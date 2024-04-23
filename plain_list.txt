@@ -43,7 +43,6 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
-stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -95,6 +94,7 @@ stun.goldfish.ie:3478
 stun.graftlab.com:3478
 stun.grazertrinkwasseringefahr.at:3478
 stun.halonet.pl:3478
+stun.healthtap.com:3478
 stun.heeds.eu:3478
 stun.hicare.net:3478
 stun.hide.me:3478
@@ -103,6 +103,7 @@ stun.hoiio.com:3478
 stun.hot-chilli.net:3478
 stun.imafex.sk:3478
 stun.imp.ch:3478
+stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.com:3478
@@ -175,6 +176,7 @@ stun.palava.tv:3478
 stun.peeters.com:3478
 stun.peethultra.be:3478
 stun.piratenbrandenburg.de:3478
+stun.pjsip.org:3478
 stun.planetarium.com.br:3478
 stun.plexicomm.net:3478
 stun.poetamatusel.org:3478
@@ -183,7 +185,6 @@ stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.pure-ip.com:3478
 stun.qcol.net:3478
-stun.radiojar.com:3478
 stun.ringostat.com:3478
 stun.rockenstein.de:3478
 stun.rolmail.net:3478
@@ -229,7 +230,6 @@ stun.streamnow.ch:3478
 stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
-stun.syncthing.net:3478
 stun.synergiejobs.be:3478
 stun.syrex.co.za:3478
 stun.t-online.de:3478
