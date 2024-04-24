@@ -1,5 +1,6 @@
 relay.webwormhole.io:3478
 stun.1-voip.com:3478
+stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
 stun.3deluxe.de:3478
@@ -42,6 +43,7 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
+stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -174,7 +176,6 @@ stun.palava.tv:3478
 stun.peeters.com:3478
 stun.peethultra.be:3478
 stun.piratenbrandenburg.de:3478
-stun.pjsip.org:3478
 stun.planetarium.com.br:3478
 stun.plexicomm.net:3478
 stun.poetamatusel.org:3478
@@ -229,7 +230,6 @@ stun.streamnow.ch:3478
 stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
-stun.sylaps.com:3478
 stun.syncthing.net:3478
 stun.synergiejobs.be:3478
 stun.syrex.co.za:3478
