@@ -28,7 +28,6 @@ stun.babelforce.com:3478
 stun.baltmannsweiler.de:3478
 stun.bandyer.com:3478
 stun.bcs2005.net:3478
-stun.bearstech.com:3478
 stun.bergophor.de:3478
 stun.bernardoprovenzano.net:3478
 stun.bethesda.net:3478
@@ -43,6 +42,7 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
+stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -145,6 +145,7 @@ stun.medvc.eu:3478
 stun.meetwife.com:3478
 stun.megatel.si:3478
 stun.meowsbox.com:3478
+stun.miwifi.com:3478
 stun.mobile-italia.com:3478
 stun.moonlight-stream.org:3478
 stun.muoversi.net:3478
