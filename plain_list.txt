@@ -43,7 +43,6 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
-stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -104,11 +103,11 @@ stun.hoiio.com:3478
 stun.hot-chilli.net:3478
 stun.imafex.sk:3478
 stun.imp.ch:3478
+stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.com:3478
 stun.ippi.fr:3478
-stun.isp.net.au:3478
 stun.it1.hr:3478
 stun.ixc.ua:3478
 stun.jabber.dk:3478
@@ -256,6 +255,7 @@ stun.uls.co.za:3478
 stun.url.net.au:3478
 stun.usfamily.net:3478
 stun.vadacom.co.nz:3478
+stun.var6.cn:3478
 stun.vavadating.com:3478
 stun.verbo.be:3478
 stun.vivox.com:3478
@@ -268,7 +268,6 @@ stun.voip.eutelia.it:3478
 stun.voipblast.com:3478
 stun.voipbuster.com:3478
 stun.voipbusterpro.com:3478
-stun.voipcheap.co.uk:3478
 stun.voipcheap.com:3478
 stun.voipconnect.com:3478
 stun.voipdiscount.com:3478
