@@ -305,10 +305,6 @@ stun.yollacalls.com:3478
 stun.zadarma.com:3478
 stun.zentauron.de:3478
 stun1.l.google.com:19302
-stun1.l.google.com:19305
 stun2.l.google.com:19302
-stun2.l.google.com:19305
 stun3.l.google.com:19302
-stun3.l.google.com:19305
 stun4.l.google.com:19302
-stun4.l.google.com:19305
