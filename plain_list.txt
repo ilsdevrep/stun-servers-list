@@ -1,6 +1,5 @@
 relay.webwormhole.io:3478
 stun.1-voip.com:3478
-stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
 stun.3deluxe.de:3478
