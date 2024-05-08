@@ -33,7 +33,6 @@ stun.bergophor.de:3478
 stun.bernardoprovenzano.net:3478
 stun.bethesda.net:3478
 stun.bitburger.de:3478
-stun.bluesip.net:3478
 stun.bridesbay.com:3478
 stun.business-isp.nl:3478
 stun.cablenet-as.net:3478
@@ -43,6 +42,7 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
+stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -94,7 +94,6 @@ stun.goldfish.ie:3478
 stun.graftlab.com:3478
 stun.grazertrinkwasseringefahr.at:3478
 stun.halonet.pl:3478
-stun.healthtap.com:3478
 stun.heeds.eu:3478
 stun.hicare.net:3478
 stun.hide.me:3478
@@ -230,7 +229,6 @@ stun.streamnow.ch:3478
 stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
-stun.sylaps.com:3478
 stun.syncthing.net:3478
 stun.synergiejobs.be:3478
 stun.syrex.co.za:3478
