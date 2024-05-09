@@ -92,9 +92,10 @@ stun.godatenow.com:3478
 stun.goldfish.ie:3478
 stun.graftlab.com:3478
 stun.grazertrinkwasseringefahr.at:3478
-stun.healthtap.com:3478
+stun.halonet.pl:3478
 stun.heeds.eu:3478
 stun.hicare.net:3478
+stun.hide.me:3478
 stun.hitv.com:3478
 stun.hoiio.com:3478
 stun.hot-chilli.net:3478
@@ -169,6 +170,7 @@ stun.openvoip.it:3478
 stun.optdyn.com:3478
 stun.ortopediacoam.it:3478
 stun.ozekiphone.com:3478
+stun.palava.tv:3478
 stun.peeters.com:3478
 stun.peethultra.be:3478
 stun.piratenbrandenburg.de:3478
@@ -252,7 +254,6 @@ stun.uls.co.za:3478
 stun.url.net.au:3478
 stun.usfamily.net:3478
 stun.vadacom.co.nz:3478
-stun.var6.cn:3478
 stun.vavadating.com:3478
 stun.verbo.be:3478
 stun.vivox.com:3478
