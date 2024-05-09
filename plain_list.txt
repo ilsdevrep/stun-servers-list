@@ -42,6 +42,7 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
+stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -93,6 +94,7 @@ stun.goldfish.ie:3478
 stun.graftlab.com:3478
 stun.grazertrinkwasseringefahr.at:3478
 stun.halonet.pl:3478
+stun.healthtap.com:3478
 stun.heeds.eu:3478
 stun.hicare.net:3478
 stun.hide.me:3478
@@ -144,7 +146,6 @@ stun.medvc.eu:3478
 stun.meetwife.com:3478
 stun.megatel.si:3478
 stun.meowsbox.com:3478
-stun.miwifi.com:3478
 stun.mobile-italia.com:3478
 stun.moonlight-stream.org:3478
 stun.muoversi.net:3478
@@ -254,6 +255,7 @@ stun.uls.co.za:3478
 stun.url.net.au:3478
 stun.usfamily.net:3478
 stun.vadacom.co.nz:3478
+stun.var6.cn:3478
 stun.vavadating.com:3478
 stun.verbo.be:3478
 stun.vivox.com:3478
