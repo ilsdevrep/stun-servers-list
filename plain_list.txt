@@ -42,7 +42,6 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
-stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -53,7 +52,6 @@ stun.dcalling.de:3478
 stun.deepfinesse.com:3478
 stun.diallog.com:3478
 stun.dls.net:3478
-stun.dukun.de:3478
 stun.dunyatelekom.com:3478
 stun.dus.net:3478
 stun.easter-eggs.com:3478
@@ -79,7 +77,6 @@ stun.foad.me.uk:3478
 stun.framasoft.org:3478
 stun.freecall.com:3478
 stun.freeswitch.org:3478
-stun.freevoipdeal.com:3478
 stun.frozenmountain.com:3478
 stun.futurasp.es:3478
 stun.galeriemagnet.at:3478
@@ -146,6 +143,7 @@ stun.medvc.eu:3478
 stun.meetwife.com:3478
 stun.megatel.si:3478
 stun.meowsbox.com:3478
+stun.miwifi.com:3478
 stun.mobile-italia.com:3478
 stun.moonlight-stream.org:3478
 stun.muoversi.net:3478
@@ -198,7 +196,6 @@ stun.schlund.de:3478
 stun.schulinformatik.at:3478
 stun.selasky.org:3478
 stun.sewan.fr:3478
-stun.shadrinsk.net:3478
 stun.siedle.com:3478
 stun.sigmavoip.com:3478
 stun.signalwire.com:3478
