@@ -1,5 +1,6 @@
 relay.webwormhole.io:3478
 stun.1-voip.com:3478
+stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
 stun.3deluxe.de:3478
@@ -63,6 +64,7 @@ stun.einfachcallback.de:3478
 stun.ekiga.net:3478
 stun.eleusi.com:3478
 stun.elitetele.com:3478
+stun.engineeredarts.co.uk:3478
 stun.eol.co.nz:3478
 stun.epygi.com:3478
 stun.f.haeder.net:3478
@@ -84,10 +86,19 @@ stun.galeriemagnet.at:3478
 stun.genymotion.com:3478
 stun.geonet.ro:3478
 stun.gigaset.net:3478
+stun.gmx.de:3478
 stun.gmx.net:3478
+stun.gntel.nl:3478
 stun.godatenow.com:3478
+stun.goldfish.ie:3478
+stun.graftlab.com:3478
 stun.grazertrinkwasseringefahr.at:3478
 stun.halonet.pl:3478
+stun.heeds.eu:3478
+stun.hicare.net:3478
+stun.hide.me:3478
+stun.hitv.com:3478
+stun.hoiio.com:3478
 stun.hot-chilli.net:3478
 stun.imafex.sk:3478
 stun.imp.ch:3478
@@ -164,6 +175,7 @@ stun.palava.tv:3478
 stun.peeters.com:3478
 stun.peethultra.be:3478
 stun.piratenbrandenburg.de:3478
+stun.pjsip.org:3478
 stun.planetarium.com.br:3478
 stun.plexicomm.net:3478
 stun.poetamatusel.org:3478
@@ -192,6 +204,7 @@ stun.sigmavoip.com:3478
 stun.signalwire.com:3478
 stun.simlar.org:3478
 stun.sip.us:3478
+stun.sipdiscount.com:3478
 stun.sipglobalphone.com:3478
 stun.siplogin.de:3478
 stun.sipthor.net:3478
@@ -201,6 +214,7 @@ stun.skydrone.aero:3478
 stun.sma.de:3478
 stun.smartvoip.com:3478
 stun.smsdiscount.com:3478
+stun.smslisto.com:3478
 stun.soho66.co.uk:3478
 stun.solcon.nl:3478
 stun.solnet.ch:3478
@@ -209,6 +223,7 @@ stun.sonetel.com:3478
 stun.sonetel.net:3478
 stun.sparvoip.de:3478
 stun.splicecom.com:3478
+stun.srce.hr:3478
 stun.stadtwerke-eutin.de:3478
 stun.stochastix.de:3478
 stun.streamnow.ch:3478
@@ -240,7 +255,6 @@ stun.uls.co.za:3478
 stun.url.net.au:3478
 stun.usfamily.net:3478
 stun.vadacom.co.nz:3478
-stun.var6.cn:3478
 stun.vavadating.com:3478
 stun.verbo.be:3478
 stun.vivox.com:3478
@@ -250,9 +264,11 @@ stun.voicetrading.com:3478
 stun.voip.aebc.com:3478
 stun.voip.blackberry.com:3478
 stun.voip.eutelia.it:3478
+stun.voipblast.com:3478
 stun.voipbuster.com:3478
 stun.voipbusterpro.com:3478
 stun.voipcheap.co.uk:3478
+stun.voipcheap.com:3478
 stun.voipconnect.com:3478
 stun.voipdiscount.com:3478
 stun.voipfibre.com:3478
@@ -276,6 +292,7 @@ stun.voztele.com:3478
 stun.waterpolopalermo.it:3478
 stun.wcoil.com:3478
 stun.webcalldirect.com:3478
+stun.webmatrix.com.br:3478
 stun.wemag.com:3478
 stun.westtel.ky:3478
 stun.wtfismyip.com:3478
