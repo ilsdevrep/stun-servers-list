@@ -98,11 +98,11 @@ stun.healthtap.com:3478
 stun.heeds.eu:3478
 stun.hicare.net:3478
 stun.hide.me:3478
-stun.hitv.com:3478
 stun.hoiio.com:3478
 stun.hot-chilli.net:3478
 stun.imafex.sk:3478
 stun.imp.ch:3478
+stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.ippi.com:3478
@@ -160,6 +160,7 @@ stun.netappel.com:3478
 stun.netgsm.com.tr:3478
 stun.nexphone.ch:3478
 stun.next-gen.ro:3478
+stun.nextcloud.com:3478
 stun.nextcloud.com:443
 stun.nexxtmobile.de:3478
 stun.nfon.net:3478
@@ -229,6 +230,7 @@ stun.streamnow.ch:3478
 stun.studio-link.de:3478
 stun.studio71.it:3478
 stun.swrag.de:3478
+stun.sylaps.com:3478
 stun.syncthing.net:3478
 stun.synergiejobs.be:3478
 stun.syrex.co.za:3478
