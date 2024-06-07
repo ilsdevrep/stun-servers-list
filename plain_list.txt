@@ -1,5 +1,6 @@
 relay.webwormhole.io:3478
 stun.1-voip.com:3478
+stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
 stun.3deluxe.de:3478
@@ -41,7 +42,6 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
-stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
