@@ -1,6 +1,5 @@
 relay.webwormhole.io:3478
 stun.1-voip.com:3478
-stun.12connect.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
 stun.3deluxe.de:3478
@@ -14,7 +13,6 @@ stun.acronis.com:3478
 stun.actionvoip.com:3478
 stun.alberon.cz:3478
 stun.allflac.com:3478
-stun.alphacron.de:3478
 stun.annatel.net:3478
 stun.antisip.com:3478
 stun.arkh-edu.ru:3478
@@ -42,7 +40,6 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
-stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -120,6 +117,7 @@ stun.junet.se:3478
 stun.justvoip.com:3478
 stun.kanojo.de:3478
 stun.kaseya.com:3478
+stun.kedr.io:3478
 stun.komsa.de:3478
 stun.kotter.net:3478
 stun.l.google.com:19302
@@ -183,7 +181,6 @@ stun.powervoip.com:3478
 stun.ppdi.com:3478
 stun.pure-ip.com:3478
 stun.qcol.net:3478
-stun.radiojar.com:3478
 stun.ringostat.com:3478
 stun.rockenstein.de:3478
 stun.rolmail.net:3478
@@ -255,6 +252,7 @@ stun.uls.co.za:3478
 stun.url.net.au:3478
 stun.usfamily.net:3478
 stun.vadacom.co.nz:3478
+stun.var6.cn:3478
 stun.vavadating.com:3478
 stun.verbo.be:3478
 stun.vivox.com:3478
