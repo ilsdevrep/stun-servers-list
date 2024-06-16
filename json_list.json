@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "15.06.2024",
-  "Count": 112,
+  "TimeStamp": "16.06.2024",
+  "Count": 83,
   "SSI": [
     {
       "Host": "relay.webwormhole.io:3478",
@@ -12,47 +12,23 @@
       "Country": "Netherlands (Kingdom of the)"
     },
     {
-      "Host": "stun.1-voip.com:3478",
-      "HostName": "stun.1-voip.com",
-      "Port": 3478,
-      "HostAddress": "209.105.241.31",
-      "RespondsFrom": "209.105.241.31:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "209.105.241.32:3479",
-      "SoftWare": "Vovida.org 0.97",
-      "Country": "United States of America"
-    },
-    {
-      "Host": "stun.12connect.com:3478",
-      "HostName": "stun.12connect.com",
-      "Port": 3478,
-      "HostAddress": "216.93.246.18",
-      "RespondsFrom": "216.93.246.18:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "216.93.246.15:3479",
-      "CanChangeActual": false,
-      "SoftWare": "Vovida.org 0.98-CPC",
-      "Country": "United States of America"
-    },
-    {
       "Host": "stun.12voip.com:3478",
       "HostName": "stun.12voip.com",
       "Port": 3478,
-      "HostAddress": "77.72.169.212",
-      "RespondsFrom": "77.72.169.212:3478",
+      "HostAddress": "77.72.169.213",
+      "RespondsFrom": "77.72.169.213:3478",
       "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "77.72.169.213:3479",
-      "CanChangeActual": false,
+      "ChangeEndPointDeclared": "77.72.169.212:3479",
       "Country": "Switzerland"
     },
     {
       "Host": "stun.1und1.de:3478",
       "HostName": "stun.1und1.de",
       "Port": 3478,
-      "HostAddress": "212.227.67.33",
-      "RespondsFrom": "212.227.67.33:3478",
+      "HostAddress": "212.227.67.34",
+      "RespondsFrom": "212.227.67.34:3478",
       "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "212.227.67.34:3479",
+      "ChangeEndPointDeclared": "212.227.67.33:3478",
       "CanChangeActual": false,
       "SoftWare": "Vovida.org 0.97",
       "Country": "Germany"
@@ -103,18 +79,6 @@
       "Country": "United Kingdom of Great Britain and Northern Ireland"
     },
     {
-      "Host": "stun.aaisp.co.uk:3478",
-      "HostName": "stun.aaisp.co.uk",
-      "Port": 3478,
-      "HostAddress": "81.187.30.115",
-      "RespondsFrom": "81.187.30.115:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "81.187.30.124:3479",
-      "CanChangeActual": false,
-      "SoftWare": "Vovida.org 0.97",
-      "Country": "United Kingdom of Great Britain and Northern Ireland"
-    },
-    {
       "Host": "stun.acquageraci.it:3478",
       "HostName": "stun.acquageraci.it",
       "Port": 3478,
@@ -154,10 +118,10 @@
       "Host": "stun.actionvoip.com:3478",
       "HostName": "stun.actionvoip.com",
       "Port": 3478,
-      "HostAddress": "77.72.169.210",
-      "RespondsFrom": "77.72.169.210:3478",
+      "HostAddress": "77.72.169.211",
+      "RespondsFrom": "77.72.169.211:3478",
       "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "77.72.169.211:3479",
+      "ChangeEndPointDeclared": "77.72.169.210:3479",
       "CanChangeActual": false,
       "Country": "Switzerland"
     },
@@ -233,18 +197,6 @@
       "Country": "Netherlands (Kingdom of the)"
     },
     {
-      "Host": "stun.autosystem.com:3478",
-      "HostName": "stun.autosystem.com",
-      "Port": 3478,
-      "HostAddress": "185.18.24.50",
-      "RespondsFrom": "185.18.24.50:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "185.18.24.16:3479",
-      "CanChangeActual": false,
-      "SoftWare": "Vovida.org 0.96",
-      "Country": "Italy"
-    },
-    {
       "Host": "stun.avigora.fr:3478",
       "HostName": "stun.avigora.fr",
       "Port": 3478,
@@ -286,22 +238,24 @@
       "Country": "France"
     },
     {
+      "Host": "stun.babelforce.com:3478",
+      "HostName": "stun.babelforce.com",
+      "Port": 3478,
+      "HostAddress": "109.235.234.65",
+      "RespondsFrom": "109.235.234.65:3478",
+      "CanChangeDeclared": true,
+      "ChangeEndPointDeclared": "109.235.234.125:3479",
+      "CanChangeActual": false,
+      "SoftWare": "Vovida.org 0.96",
+      "Country": "Germany"
+    },
+    {
       "Host": "stun.baltmannsweiler.de:3478",
       "HostName": "stun.baltmannsweiler.de",
       "Port": 3478,
       "HostAddress": "195.145.93.141",
       "RespondsFrom": "195.145.93.141:3478",
       "CanChangeDeclared": false,
-      "Country": "Germany"
-    },
-    {
-      "Host": "stun.bandyer.com:3478",
-      "HostName": "stun.bandyer.com",
-      "Port": 3478,
-      "HostAddress": "52.59.186.26",
-      "RespondsFrom": "52.59.186.26:3478",
-      "CanChangeDeclared": false,
-      "SoftWare": "Coturn-4.6.1 \u0027Gorst\u0027",
       "Country": "Germany"
     },
     {
@@ -327,41 +281,11 @@
       "Country": "France"
     },
     {
-      "Host": "stun.bergophor.de:3478",
-      "HostName": "stun.bergophor.de",
-      "Port": 3478,
-      "HostAddress": "87.129.12.229",
-      "RespondsFrom": "87.129.12.229:3478",
-      "CanChangeDeclared": false,
-      "Country": "Germany"
-    },
-    {
-      "Host": "stun.bernardoprovenzano.net:3478",
-      "HostName": "stun.bernardoprovenzano.net",
-      "Port": 3478,
-      "HostAddress": "185.18.24.50",
-      "RespondsFrom": "185.18.24.50:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "185.18.24.16:3479",
-      "CanChangeActual": false,
-      "SoftWare": "Vovida.org 0.96",
-      "Country": "Italy"
-    },
-    {
       "Host": "stun.bethesda.net:3478",
       "HostName": "stun.bethesda.net",
       "Port": 3478,
       "HostAddress": "18.197.157.228",
       "RespondsFrom": "18.197.157.228:3478",
-      "CanChangeDeclared": false,
-      "Country": "Germany"
-    },
-    {
-      "Host": "stun.bitburger.de:3478",
-      "HostName": "stun.bitburger.de",
-      "Port": 3478,
-      "HostAddress": "193.22.17.97",
-      "RespondsFrom": "193.22.17.97:3478",
       "CanChangeDeclared": false,
       "Country": "Germany"
     },
@@ -374,18 +298,6 @@
       "CanChangeDeclared": false,
       "SoftWare": "Coturn-4.6.2 \u0027Gorst\u0027",
       "Country": "United States of America"
-    },
-    {
-      "Host": "stun.cablenet-as.net:3478",
-      "HostName": "stun.cablenet-as.net",
-      "Port": 3478,
-      "HostAddress": "213.140.209.236",
-      "RespondsFrom": "213.140.209.236:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "213.140.209.237:3479",
-      "CanChangeActual": false,
-      "SoftWare": "Vovida.org 0.96",
-      "Country": "Cyprus"
     },
     {
       "Host": "stun.callromania.ro:3478",
@@ -433,41 +345,20 @@
       "Country": "Switzerland"
     },
     {
-      "Host": "stun.internetcalls.com:3478",
-      "HostName": "stun.internetcalls.com",
+      "Host": "stun.infra.net:3478",
+      "HostName": "stun.infra.net",
       "Port": 3478,
-      "HostAddress": "77.72.169.213",
-      "RespondsFrom": "77.72.169.213:3478",
+      "HostAddress": "195.242.206.1",
+      "RespondsFrom": "195.242.206.1:3478",
       "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "77.72.169.212:3479",
+      "ChangeEndPointDeclared": "195.242.206.28:3479",
       "CanChangeActual": false,
-      "Country": "Switzerland"
-    },
-    {
-      "Host": "stun.intervoip.com:3478",
-      "HostName": "stun.intervoip.com",
-      "Port": 3478,
-      "HostAddress": "77.72.169.212",
-      "RespondsFrom": "77.72.169.212:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "77.72.169.213:3479",
-      "CanChangeActual": false,
-      "Country": "Switzerland"
+      "SoftWare": "Vovida.org 0.96",
+      "Country": "Germany"
     },
     {
       "Host": "stun.ippi.com:3478",
       "HostName": "stun.ippi.com",
-      "Port": 3478,
-      "HostAddress": "194.169.214.30",
-      "RespondsFrom": "194.169.214.30:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "194.169.214.22:5060",
-      "CanChangeActual": false,
-      "Country": "France"
-    },
-    {
-      "Host": "stun.ippi.fr:3478",
-      "HostName": "stun.ippi.fr",
       "Port": 3478,
       "HostAddress": "194.169.214.30",
       "RespondsFrom": "194.169.214.30:3478",
@@ -489,45 +380,13 @@
       "Country": "United States of America"
     },
     {
-      "Host": "stun.it1.hr:3478",
-      "HostName": "stun.it1.hr",
+      "Host": "stun.ixc.ua:3478",
+      "HostName": "stun.ixc.ua",
       "Port": 3478,
-      "HostAddress": "176.62.31.10",
-      "RespondsFrom": "176.62.31.10:3478",
+      "HostAddress": "136.243.202.77",
+      "RespondsFrom": "136.243.202.77:3478",
       "CanChangeDeclared": false,
-      "SoftWare": "reTURNServer 0.4 - RFC5389/turn-12",
-      "Country": "Croatia"
-    },
-    {
-      "Host": "stun.jabber.dk:3478",
-      "HostName": "stun.jabber.dk",
-      "Port": 3478,
-      "HostAddress": "95.216.190.5",
-      "RespondsFrom": "95.216.190.5:3478",
-      "CanChangeDeclared": false,
-      "SoftWare": "Coturn-4.5.2 \u0027dan Eider\u0027",
-      "Country": "Finland"
-    },
-    {
-      "Host": "stun.jabbim.cz:3478",
-      "HostName": "stun.jabbim.cz",
-      "Port": 3478,
-      "HostAddress": "88.86.102.51",
-      "RespondsFrom": "88.86.102.51:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "88.86.102.52:3479",
-      "CanChangeActual": false,
-      "SoftWare": "Vovida.org 0.96",
-      "Country": "Czechia"
-    },
-    {
-      "Host": "stun.jowisoftware.de:3478",
-      "HostName": "stun.jowisoftware.de",
-      "Port": 3478,
-      "HostAddress": "92.205.106.161",
-      "RespondsFrom": "92.205.106.161:3478",
-      "CanChangeDeclared": false,
-      "Country": "France"
+      "Country": "Germany"
     },
     {
       "Host": "stun.junet.se:3478",
@@ -542,69 +401,28 @@
       "Country": "Sweden"
     },
     {
-      "Host": "stun.justvoip.com:3478",
-      "HostName": "stun.justvoip.com",
+      "Host": "stun.komsa.de:3478",
+      "HostName": "stun.komsa.de",
       "Port": 3478,
-      "HostAddress": "77.72.169.210",
-      "RespondsFrom": "77.72.169.210:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "77.72.169.211:3479",
-      "CanChangeActual": false,
-      "Country": "Switzerland"
-    },
-    {
-      "Host": "stun.kanojo.de:3478",
-      "HostName": "stun.kanojo.de",
-      "Port": 3478,
-      "HostAddress": "95.216.78.222",
-      "RespondsFrom": "95.216.78.222:3478",
+      "HostAddress": "217.119.210.45",
+      "RespondsFrom": "217.119.210.45:3478",
       "CanChangeDeclared": false,
-      "SoftWare": "Coturn-4.6.1 \u0027Gorst\u0027",
-      "Country": "Finland"
-    },
-    {
-      "Host": "stun.kaseya.com:3478",
-      "HostName": "stun.kaseya.com",
-      "Port": 3478,
-      "HostAddress": "23.21.199.62",
-      "RespondsFrom": "23.21.199.62:3478",
-      "CanChangeDeclared": false,
-      "SoftWare": "Kaseya STUN V1.0 C\u002B\u002B",
-      "Country": "United States of America"
-    },
-    {
-      "Host": "stun.kedr.io:3478",
-      "HostName": "stun.kedr.io",
-      "Port": 3478,
-      "HostAddress": "217.19.216.178",
-      "RespondsFrom": "217.19.216.178:3478",
-      "CanChangeDeclared": false,
-      "Country": "Moldova (the Republic of)"
-    },
-    {
-      "Host": "stun.kotter.net:3478",
-      "HostName": "stun.kotter.net",
-      "Port": 3478,
-      "HostAddress": "77.72.169.210",
-      "RespondsFrom": "77.72.169.210:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "77.72.169.211:3479",
-      "CanChangeActual": false,
-      "Country": "Switzerland"
+      "SoftWare": "restund v.E7.4.0.5782 ( - / win32 )",
+      "Country": "Germany"
     },
     {
       "Host": "stun.labs.net:3478",
       "HostName": "stun.labs.net",
       "Port": 3478,
-      "HostAddress": "204.197.144.2",
-      "RespondsFrom": "204.197.144.2:3478",
+      "HostAddress": "204.197.159.2",
+      "RespondsFrom": "204.197.159.2:3478",
       "CanChangeDeclared": false,
       "SoftWare": "Coturn-4.5.2 \u0027dan Eider\u0027",
       "Country": "United States of America"
     },
     {
-      "Host": "stun.ladridiricette.it:3478",
-      "HostName": "stun.ladridiricette.it",
+      "Host": "stun.leonde.org:3478",
+      "HostName": "stun.leonde.org",
       "Port": 3478,
       "HostAddress": "185.18.24.50",
       "RespondsFrom": "185.18.24.50:3478",
@@ -648,55 +466,24 @@
       "Country": "United States of America"
     },
     {
-      "Host": "stun.linuxtrent.it:3478",
-      "HostName": "stun.linuxtrent.it",
-      "Port": 3478,
-      "HostAddress": "136.243.59.79",
-      "RespondsFrom": "136.243.59.79:3478",
-      "CanChangeDeclared": false,
-      "SoftWare": "Coturn-4.6.1 \u0027Gorst\u0027",
-      "Country": "Germany"
-    },
-    {
       "Host": "stun.liveo.fr:3478",
       "HostName": "stun.liveo.fr",
       "Port": 3478,
-      "HostAddress": "77.72.169.210",
-      "RespondsFrom": "77.72.169.210:3478",
+      "HostAddress": "77.72.169.211",
+      "RespondsFrom": "77.72.169.211:3478",
       "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "77.72.169.211:3479",
+      "ChangeEndPointDeclared": "77.72.169.210:3479",
       "CanChangeActual": false,
       "Country": "Switzerland"
-    },
-    {
-      "Host": "stun.logic.ky:3478",
-      "HostName": "stun.logic.ky",
-      "Port": 3478,
-      "HostAddress": "216.144.89.2",
-      "RespondsFrom": "216.144.89.2:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "216.144.89.3:3482",
-      "CanChangeActual": false,
-      "Country": "Cayman Islands"
-    },
-    {
-      "Host": "stun.lovense.com:3478",
-      "HostName": "stun.lovense.com",
-      "Port": 3478,
-      "HostAddress": "44.230.252.214",
-      "RespondsFrom": "44.230.252.214:3478",
-      "CanChangeDeclared": false,
-      "SoftWare": "Coturn-4.5.1.3 \u0027dan Eider\u0027",
-      "Country": "United States of America"
     },
     {
       "Host": "stun.lowratevoip.com:3478",
       "HostName": "stun.lowratevoip.com",
       "Port": 3478,
-      "HostAddress": "77.72.169.210",
-      "RespondsFrom": "77.72.169.210:3478",
+      "HostAddress": "77.72.169.211",
+      "RespondsFrom": "77.72.169.211:3478",
       "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "77.72.169.211:3479",
+      "ChangeEndPointDeclared": "77.72.169.210:3479",
       "CanChangeActual": false,
       "Country": "Switzerland"
     },
@@ -708,18 +495,6 @@
       "RespondsFrom": "212.18.0.14:3478",
       "CanChangeDeclared": false,
       "Country": "Germany"
-    },
-    {
-      "Host": "stun.marcelproust.it:3478",
-      "HostName": "stun.marcelproust.it",
-      "Port": 3478,
-      "HostAddress": "185.18.24.50",
-      "RespondsFrom": "185.18.24.50:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "185.18.24.16:3479",
-      "CanChangeActual": false,
-      "SoftWare": "Vovida.org 0.96",
-      "Country": "Italy"
     },
     {
       "Host": "stun.medvc.eu:3478",
@@ -734,32 +509,13 @@
       "Country": "Poland"
     },
     {
-      "Host": "stun.meetwife.com:3478",
-      "HostName": "stun.meetwife.com",
+      "Host": "stun.myvoipapp.com:3478",
+      "HostName": "stun.myvoipapp.com",
       "Port": 3478,
-      "HostAddress": "5.161.57.75",
-      "RespondsFrom": "5.161.57.75:3478",
+      "HostAddress": "46.101.202.148",
+      "RespondsFrom": "46.101.202.148:3478",
       "CanChangeDeclared": false,
-      "SoftWare": "Coturn-4.6.2 \u0027Gorst\u0027",
-      "Country": "United States of America"
-    },
-    {
-      "Host": "stun.meowsbox.com:3478",
-      "HostName": "stun.meowsbox.com",
-      "Port": 3478,
-      "HostAddress": "173.255.213.166",
-      "RespondsFrom": "173.255.213.166:3478",
-      "CanChangeDeclared": false,
-      "Country": "United States of America"
-    },
-    {
-      "Host": "stun.moonlight-stream.org:3478",
-      "HostName": "stun.moonlight-stream.org",
-      "Port": 3478,
-      "HostAddress": "34.74.124.204",
-      "RespondsFrom": "34.74.124.204:3478",
-      "CanChangeDeclared": false,
-      "Country": "United States of America"
+      "Country": "Germany"
     },
     {
       "Host": "stun.mywatson.it:3478",
@@ -783,26 +539,16 @@
       "Country": "Germany"
     },
     {
-      "Host": "stun.ortopediacoam.it:3478",
-      "HostName": "stun.ortopediacoam.it",
+      "Host": "stun.officinabit.com:3478",
+      "HostName": "stun.officinabit.com",
       "Port": 3478,
-      "HostAddress": "185.18.24.50",
-      "RespondsFrom": "185.18.24.50:3478",
+      "HostAddress": "83.211.9.232",
+      "RespondsFrom": "83.211.9.232:3478",
       "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "185.18.24.16:3479",
+      "ChangeEndPointDeclared": "83.211.9.234:3479",
       "CanChangeActual": false,
       "SoftWare": "Vovida.org 0.96",
       "Country": "Italy"
-    },
-    {
-      "Host": "stun.piratenbrandenburg.de:3478",
-      "HostName": "stun.piratenbrandenburg.de",
-      "Port": 3478,
-      "HostAddress": "213.239.206.5",
-      "RespondsFrom": "213.239.206.5:3478",
-      "CanChangeDeclared": false,
-      "SoftWare": "Coturn-4.5.1.1 \u0027dan Eider\u0027",
-      "Country": "Germany"
     },
     {
       "Host": "stun.pjsip.org:3478",
@@ -828,105 +574,18 @@
       "Country": "Canada"
     },
     {
-      "Host": "stun.qcol.net:3478",
-      "HostName": "stun.qcol.net",
+      "Host": "stun.poetamatusel.org:3478",
+      "HostName": "stun.poetamatusel.org",
       "Port": 3478,
-      "HostAddress": "69.89.160.30",
-      "RespondsFrom": "69.89.160.30:3478",
+      "HostAddress": "136.243.59.79",
+      "RespondsFrom": "136.243.59.79:3478",
       "CanChangeDeclared": false,
-      "Country": "United States of America"
-    },
-    {
-      "Host": "stun.radiojar.com:3478",
-      "HostName": "stun.radiojar.com",
-      "Port": 3478,
-      "HostAddress": "137.74.112.113",
-      "RespondsFrom": "137.74.112.113:3478",
-      "CanChangeDeclared": false,
-      "SoftWare": "Coturn-4.5.0.3 \u0027dan Eider\u0027",
-      "Country": "France"
-    },
-    {
-      "Host": "stun.rolmail.net:3478",
-      "HostName": "stun.rolmail.net",
-      "Port": 3478,
-      "HostAddress": "195.254.254.20",
-      "RespondsFrom": "195.254.254.20:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "195.254.254.4:3479",
-      "CanChangeActual": false,
-      "SoftWare": "Vovida.org 0.96",
-      "Country": "Italy"
-    },
-    {
-      "Host": "stun.romancecompass.com:3478",
-      "HostName": "stun.romancecompass.com",
-      "Port": 3478,
-      "HostAddress": "5.161.52.174",
-      "RespondsFrom": "5.161.52.174:3478",
-      "CanChangeDeclared": false,
-      "SoftWare": "Coturn-4.6.2 \u0027Gorst\u0027",
-      "Country": "United States of America"
-    },
-    {
-      "Host": "stun.sacko.com.au:3478",
-      "HostName": "stun.sacko.com.au",
-      "Port": 3478,
-      "HostAddress": "103.242.182.2",
-      "RespondsFrom": "103.242.182.2:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "10.22.20.253:3479",
-      "CanChangeActual": false,
-      "SoftWare": "Vovida.org 0.97",
-      "Country": "Australia"
-    },
-    {
-      "Host": "stun.schlund.de:3478",
-      "HostName": "stun.schlund.de",
-      "Port": 3478,
-      "HostAddress": "212.227.67.33",
-      "RespondsFrom": "212.227.67.33:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "212.227.67.34:3479",
-      "CanChangeActual": false,
-      "SoftWare": "Vovida.org 0.97",
+      "SoftWare": "Coturn-4.6.1 \u0027Gorst\u0027",
       "Country": "Germany"
     },
     {
-      "Host": "stun.selasky.org:3478",
-      "HostName": "stun.selasky.org",
-      "Port": 3478,
-      "HostAddress": "212.227.67.33",
-      "RespondsFrom": "212.227.67.33:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "212.227.67.34:3479",
-      "CanChangeActual": false,
-      "SoftWare": "Vovida.org 0.97",
-      "Country": "Germany"
-    },
-    {
-      "Host": "stun.sewan.fr:3478",
-      "HostName": "stun.sewan.fr",
-      "Port": 3478,
-      "HostAddress": "37.97.65.52",
-      "RespondsFrom": "37.97.65.52:3478",
-      "CanChangeDeclared": false,
-      "SoftWare": "Citrix-3.2.5.9 \u0027Marshal West\u0027",
-      "Country": "France"
-    },
-    {
-      "Host": "stun.siptrunk.com:3478",
-      "HostName": "stun.siptrunk.com",
-      "Port": 3478,
-      "HostAddress": "23.21.92.55",
-      "RespondsFrom": "23.21.92.55:3478",
-      "CanChangeDeclared": false,
-      "SoftWare": "Coturn-4.5.1.1 \u0027dan Eider\u0027",
-      "Country": "United States of America"
-    },
-    {
-      "Host": "stun.smsdiscount.com:3478",
-      "HostName": "stun.smsdiscount.com",
+      "Host": "stun.rynga.com:3478",
+      "HostName": "stun.rynga.com",
       "Port": 3478,
       "HostAddress": "77.72.169.211",
       "RespondsFrom": "77.72.169.211:3478",
@@ -936,22 +595,85 @@
       "Country": "Switzerland"
     },
     {
-      "Host": "stun.smslisto.com:3478",
-      "HostName": "stun.smslisto.com",
+      "Host": "stun.schulinformatik.at:3478",
+      "HostName": "stun.schulinformatik.at",
       "Port": 3478,
-      "HostAddress": "77.72.169.212",
-      "RespondsFrom": "77.72.169.212:3478",
+      "HostAddress": "83.64.250.246",
+      "RespondsFrom": "83.64.250.246:3478",
+      "CanChangeDeclared": false,
+      "SoftWare": "TurnServer 0.7",
+      "Country": "Austria"
+    },
+    {
+      "Host": "stun.shadrinsk.net:3478",
+      "HostName": "stun.shadrinsk.net",
+      "Port": 3478,
+      "HostAddress": "195.211.238.18",
+      "RespondsFrom": "195.211.238.18:3478",
       "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "77.72.169.213:3479",
+      "ChangeEndPointDeclared": "0.0.0.0:3477",
+      "CanChangeActual": false,
+      "Country": "Russian Federation"
+    },
+    {
+      "Host": "stun.sip.us:3478",
+      "HostName": "stun.sip.us",
+      "Port": 3478,
+      "HostAddress": "23.21.92.55",
+      "RespondsFrom": "23.21.92.55:3478",
+      "CanChangeDeclared": false,
+      "SoftWare": "Coturn-4.5.1.1 \u0027dan Eider\u0027",
+      "Country": "United States of America"
+    },
+    {
+      "Host": "stun.siplogin.de:3478",
+      "HostName": "stun.siplogin.de",
+      "Port": 3478,
+      "HostAddress": "35.158.233.7",
+      "RespondsFrom": "35.158.233.7:3478",
+      "CanChangeDeclared": false,
+      "SoftWare": "Coturn-4.6.1 \u0027Gorst\u0027",
+      "Country": "Germany"
+    },
+    {
+      "Host": "stun.skydrone.aero:3478",
+      "HostName": "stun.skydrone.aero",
+      "Port": 3478,
+      "HostAddress": "52.52.70.85",
+      "RespondsFrom": "52.52.70.85:3478",
+      "CanChangeDeclared": false,
+      "SoftWare": "Coturn-4.5.0.3 \u0027dan Eider\u0027",
+      "Country": "United States of America"
+    },
+    {
+      "Host": "stun.smartvoip.com:3478",
+      "HostName": "stun.smartvoip.com",
+      "Port": 3478,
+      "HostAddress": "77.72.169.213",
+      "RespondsFrom": "77.72.169.213:3478",
+      "CanChangeDeclared": true,
+      "ChangeEndPointDeclared": "77.72.169.212:3479",
       "CanChangeActual": false,
       "Country": "Switzerland"
+    },
+    {
+      "Host": "stun.solomo.de:3478",
+      "HostName": "stun.solomo.de",
+      "Port": 3478,
+      "HostAddress": "5.9.87.18",
+      "RespondsFrom": "5.9.87.18:3478",
+      "CanChangeDeclared": true,
+      "ChangeEndPointDeclared": "136.243.205.11:3479",
+      "CanChangeActual": false,
+      "SoftWare": "Vovida.org 0.96",
+      "Country": "Germany"
     },
     {
       "Host": "stun.sonetel.net:3478",
       "HostName": "stun.sonetel.net",
       "Port": 3478,
-      "HostAddress": "52.24.174.49",
-      "RespondsFrom": "52.24.174.49:3478",
+      "HostAddress": "52.26.251.34",
+      "RespondsFrom": "52.26.251.34:3478",
       "CanChangeDeclared": false,
       "SoftWare": "Citrix-3.2.2.1 \u0027Marshal West\u0027",
       "Country": "United States of America"
@@ -969,13 +691,25 @@
       "Country": "Croatia"
     },
     {
+      "Host": "stun.swrag.de:3478",
+      "HostName": "stun.swrag.de",
+      "Port": 3478,
+      "HostAddress": "185.39.86.17",
+      "RespondsFrom": "185.39.86.17:3478",
+      "CanChangeDeclared": true,
+      "ChangeEndPointDeclared": "185.39.86.18:3479",
+      "CanChangeActual": false,
+      "SoftWare": "Vovida.org 0.96",
+      "Country": "Germany"
+    },
+    {
       "Host": "stun.talkho.com:3478",
       "HostName": "stun.talkho.com",
       "Port": 3478,
-      "HostAddress": "77.72.169.210",
-      "RespondsFrom": "77.72.169.210:3478",
+      "HostAddress": "77.72.169.212",
+      "RespondsFrom": "77.72.169.212:3478",
       "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "77.72.169.211:3479",
+      "ChangeEndPointDeclared": "77.72.169.213:3479",
       "CanChangeActual": false,
       "Country": "Switzerland"
     },
@@ -990,73 +724,34 @@
       "Country": "France"
     },
     {
-      "Host": "stun.tel.lu:3478",
-      "HostName": "stun.tel.lu",
-      "Port": 3478,
-      "HostAddress": "85.93.219.114",
-      "RespondsFrom": "85.93.219.114:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "85.93.219.115:3479",
-      "CanChangeActual": false,
-      "SoftWare": "Vovida.org 0.96",
-      "Country": "Luxembourg"
-    },
-    {
-      "Host": "stun.tel2.co.uk:3478",
-      "HostName": "stun.tel2.co.uk",
-      "Port": 3478,
-      "HostAddress": "27.111.15.93",
-      "RespondsFrom": "27.111.15.93:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "27.111.15.81:3479",
-      "CanChangeActual": false,
-      "SoftWare": "Vovida.org 0.97",
-      "Country": "New Zealand"
-    },
-    {
       "Host": "stun.telbo.com:3478",
       "HostName": "stun.telbo.com",
       "Port": 3478,
-      "HostAddress": "77.72.169.211",
-      "RespondsFrom": "77.72.169.211:3478",
+      "HostAddress": "77.72.169.210",
+      "RespondsFrom": "77.72.169.210:3478",
       "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "77.72.169.210:3479",
+      "ChangeEndPointDeclared": "77.72.169.211:3479",
       "CanChangeActual": false,
       "Country": "Switzerland"
     },
     {
-      "Host": "stun.tichiamo.it:3478",
-      "HostName": "stun.tichiamo.it",
+      "Host": "stun.uabrides.com:3478",
+      "HostName": "stun.uabrides.com",
       "Port": 3478,
-      "HostAddress": "83.211.9.232",
-      "RespondsFrom": "83.211.9.232:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "83.211.9.234:3479",
-      "CanChangeActual": false,
-      "SoftWare": "Vovida.org 0.96",
-      "Country": "Italy"
-    },
-    {
-      "Host": "stun.tng.de:3478",
-      "HostName": "stun.tng.de",
-      "Port": 3478,
-      "HostAddress": "82.97.157.254",
-      "RespondsFrom": "82.97.157.254:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "82.97.157.252:3479",
-      "CanChangeActual": false,
-      "SoftWare": "Vovida.org 0.96",
-      "Country": "Germany"
-    },
-    {
-      "Host": "stun.ttmath.org:3478",
-      "HostName": "stun.ttmath.org",
-      "Port": 3478,
-      "HostAddress": "51.83.201.84",
-      "RespondsFrom": "51.83.201.84:3478",
+      "HostAddress": "5.161.57.75",
+      "RespondsFrom": "5.161.57.75:3478",
       "CanChangeDeclared": false,
       "SoftWare": "Coturn-4.6.2 \u0027Gorst\u0027",
-      "Country": "Poland"
+      "Country": "United States of America"
+    },
+    {
+      "Host": "stun.uls.co.za:3478",
+      "HostName": "stun.uls.co.za",
+      "Port": 3478,
+      "HostAddress": "154.73.34.8",
+      "RespondsFrom": "154.73.34.8:3478",
+      "CanChangeDeclared": false,
+      "Country": "South Africa"
     },
     {
       "Host": "stun.url.net.au:3478",
@@ -1071,68 +766,69 @@
       "Country": "Australia"
     },
     {
-      "Host": "stun.voipbuster.com:3478",
-      "HostName": "stun.voipbuster.com",
+      "Host": "stun.vo.lu:3478",
+      "HostName": "stun.vo.lu",
       "Port": 3478,
-      "HostAddress": "77.72.169.211",
-      "RespondsFrom": "77.72.169.211:3478",
+      "HostAddress": "85.93.219.114",
+      "RespondsFrom": "85.93.219.114:3478",
       "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "77.72.169.210:3479",
+      "ChangeEndPointDeclared": "85.93.219.115:3479",
+      "CanChangeActual": false,
+      "SoftWare": "Vovida.org 0.96",
+      "Country": "Luxembourg"
+    },
+    {
+      "Host": "stun.voicetrading.com:3478",
+      "HostName": "stun.voicetrading.com",
+      "Port": 3478,
+      "HostAddress": "77.72.169.210",
+      "RespondsFrom": "77.72.169.210:3478",
+      "CanChangeDeclared": true,
+      "ChangeEndPointDeclared": "77.72.169.211:3479",
       "CanChangeActual": false,
       "Country": "Switzerland"
+    },
+    {
+      "Host": "stun.voip.blackberry.com:3478",
+      "HostName": "stun.voip.blackberry.com",
+      "Port": 3478,
+      "HostAddress": "20.93.239.171",
+      "RespondsFrom": "20.93.239.171:3478",
+      "CanChangeDeclared": false,
+      "SoftWare": "Coturn-4.5.2 \u0027dan Eider\u0027",
+      "Country": "Netherlands (Kingdom of the)"
     },
     {
       "Host": "stun.voipdiscount.com:3478",
       "HostName": "stun.voipdiscount.com",
       "Port": 3478,
-      "HostAddress": "77.72.169.212",
-      "RespondsFrom": "77.72.169.212:3478",
+      "HostAddress": "77.72.169.210",
+      "RespondsFrom": "77.72.169.210:3478",
       "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "77.72.169.213:3479",
+      "ChangeEndPointDeclared": "77.72.169.211:3479",
       "CanChangeActual": false,
       "Country": "Switzerland"
     },
     {
-      "Host": "stun.voipfibre.com:3478",
-      "HostName": "stun.voipfibre.com",
+      "Host": "stun.voipvoice.it:3478",
+      "HostName": "stun.voipvoice.it",
       "Port": 3478,
-      "HostAddress": "77.72.169.213",
-      "RespondsFrom": "77.72.169.213:3478",
+      "HostAddress": "83.211.9.232",
+      "RespondsFrom": "83.211.9.232:3478",
       "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "77.72.169.212:3479",
+      "ChangeEndPointDeclared": "83.211.9.234:3479",
       "CanChangeActual": false,
-      "Country": "Switzerland"
+      "SoftWare": "Vovida.org 0.96",
+      "Country": "Italy"
     },
     {
-      "Host": "stun.voipgain.com:3478",
-      "HostName": "stun.voipgain.com",
+      "Host": "stun.voipxs.nl:3478",
+      "HostName": "stun.voipxs.nl",
       "Port": 3478,
-      "HostAddress": "77.72.169.212",
-      "RespondsFrom": "77.72.169.212:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "77.72.169.213:3479",
-      "CanChangeActual": false,
-      "Country": "Switzerland"
-    },
-    {
-      "Host": "stun.voipgrid.nl:3478",
-      "HostName": "stun.voipgrid.nl",
-      "Port": 3478,
-      "HostAddress": "195.35.114.37",
-      "RespondsFrom": "195.35.114.37:3478",
+      "HostAddress": "194.140.246.192",
+      "RespondsFrom": "194.140.246.192:3478",
       "CanChangeDeclared": false,
       "SoftWare": "Coturn-4.6.1 \u0027Gorst\u0027",
-      "Country": "Netherlands (Kingdom of the)"
-    },
-    {
-      "Host": "stun.voipplanet.nl:3478",
-      "HostName": "stun.voipplanet.nl",
-      "Port": 3478,
-      "HostAddress": "194.61.59.25",
-      "RespondsFrom": "194.61.59.25:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "10.10.0.177:3479",
-      "CanChangeActual": false,
       "Country": "Netherlands (Kingdom of the)"
     },
     {
@@ -1155,56 +851,46 @@
       "Country": "Spain"
     },
     {
-      "Host": "stun.webcalldirect.com:3478",
-      "HostName": "stun.webcalldirect.com",
+      "Host": "stun.voztele.com:3478",
+      "HostName": "stun.voztele.com",
       "Port": 3478,
-      "HostAddress": "77.72.169.213",
-      "RespondsFrom": "77.72.169.213:3478",
+      "HostAddress": "193.22.119.20",
+      "RespondsFrom": "193.22.119.20:3478",
       "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "77.72.169.212:3479",
-      "CanChangeActual": false,
-      "Country": "Switzerland"
-    },
-    {
-      "Host": "stun.westtel.ky:3478",
-      "HostName": "stun.westtel.ky",
-      "Port": 3478,
-      "HostAddress": "216.144.89.2",
-      "RespondsFrom": "216.144.89.2:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "216.144.89.3:3482",
-      "CanChangeActual": false,
-      "Country": "Cayman Islands"
-    },
-    {
-      "Host": "stun.wxnz.net:3478",
-      "HostName": "stun.wxnz.net",
-      "Port": 3478,
-      "HostAddress": "182.154.16.5",
-      "RespondsFrom": "182.154.16.5:3478",
-      "CanChangeDeclared": true,
-      "ChangeEndPointDeclared": "182.154.16.6:3479",
+      "ChangeEndPointDeclared": "193.22.119.3:3479",
       "CanChangeActual": false,
       "SoftWare": "Vovida.org 0.97",
-      "Country": "New Zealand"
+      "Country": "Spain"
     },
     {
-      "Host": "stun1.l.google.com:19302",
-      "HostName": "stun1.l.google.com",
-      "Port": 19302,
-      "HostAddress": "74.125.250.129",
-      "RespondsFrom": "74.125.250.129:19302",
+      "Host": "stun.wcoil.com:3478",
+      "HostName": "stun.wcoil.com",
+      "Port": 3478,
+      "HostAddress": "65.17.128.101",
+      "RespondsFrom": "65.17.128.101:3478",
       "CanChangeDeclared": false,
       "Country": "United States of America"
     },
     {
-      "Host": "stun3.l.google.com:19302",
-      "HostName": "stun3.l.google.com",
-      "Port": 19302,
-      "HostAddress": "74.125.250.129",
-      "RespondsFrom": "74.125.250.129:19302",
+      "Host": "stun.wemag.com:3478",
+      "HostName": "stun.wemag.com",
+      "Port": 3478,
+      "HostAddress": "185.39.86.17",
+      "RespondsFrom": "185.39.86.17:3478",
+      "CanChangeDeclared": true,
+      "ChangeEndPointDeclared": "185.39.86.18:3479",
+      "CanChangeActual": false,
+      "SoftWare": "Vovida.org 0.96",
+      "Country": "Germany"
+    },
+    {
+      "Host": "stun.zadarma.com:3478",
+      "HostName": "stun.zadarma.com",
+      "Port": 3478,
+      "HostAddress": "185.45.152.22",
+      "RespondsFrom": "185.45.152.22:3478",
       "CanChangeDeclared": false,
-      "Country": "United States of America"
+      "Country": "Germany"
     }
   ]
 }
