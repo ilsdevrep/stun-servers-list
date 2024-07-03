@@ -42,6 +42,7 @@ stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
+stun.commpeak.com:3478
 stun.comrex.com:3478
 stun.cope.es:3478
 stun.counterpath.com:3478
@@ -97,7 +98,6 @@ stun.heeds.eu:3478
 stun.hicare.net:3478
 stun.hide.me:3478
 stun.hitv.com:3478
-stun.hoiio.com:3478
 stun.hot-chilli.net:3478
 stun.imafex.sk:3478
 stun.imp.ch:3478
@@ -132,7 +132,6 @@ stun.lineaencasa.com:3478
 stun.linphone.org:3478
 stun.linuxtrent.it:3478
 stun.liveo.fr:3478
-stun.lleida.net:3478
 stun.localphone.com:3478
 stun.logic.ky:3478
 stun.lovense.com:3478
@@ -193,11 +192,11 @@ stun.rynga.com:3478
 stun.sacko.com.au:3478
 stun.schlund.de:3478
 stun.schulinformatik.at:3478
+stun.selasky.org:3478
 stun.sewan.fr:3478
 stun.shadrinsk.net:3478
 stun.siedle.com:3478
 stun.sigmavoip.com:3478
-stun.signalwire.com:3478
 stun.simlar.org:3478
 stun.sip.us:3478
 stun.sipdiscount.com:3478
